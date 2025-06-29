@@ -1,0 +1,7 @@
+Đây là nội dung của tệp assignment.txt.
+Nó cần được gửi đến hệ thống chấm điểm một cách an toàn và đáng tin cậy.
+Tệp này sẽ được chia thành ba phần nhỏ hơn để tối ưu hóa băng thông.
+Mỗi phần sẽ được mã hóa bằng DES và ký số bằng RSA để đảm bảo tính toàn vẹn.
+Sau đó, từng phần sẽ được gửi đi kèm với thông tin băm (hash) và chữ ký.
+Người nhận sẽ kiểm tra băm và chữ ký, sau đó giải mã và ghép lại tệp gốc.
+Đây là dòng cuối cùng của tệp để kiểm tra đủ dữ liệu.
